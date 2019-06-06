@@ -18,9 +18,7 @@
 ⑤git commit -m "备注"
 ⑥git remote add origin https://github.com/Superma404/demo.git
 ⑦git push -u origin master
-=======
- 
->>>>>>> baf605ff4f3d7f16e8d325356f00a39ab9bfdc3d
+
 
 ##  资料
 [Spring文档](https://spring.io/guides)
