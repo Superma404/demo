@@ -10,7 +10,7 @@ git的地址：https://git-scm.com/download
 ③git commit -m "备注"
 ④git commit --amend --no-edit(临时改动 不是一个回路)
 ⑤git push
-##  git初始化命令
+##   git初始化命令
 ①git init
 ②git add .
 ③git config --global user.email "superma0319@163.com"
