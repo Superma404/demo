@@ -2,8 +2,7 @@
 
 
 ##  工具
-git的地址：https://git-scm.com/download
-<<<<<<< HEAD
+[git的下载地址](https://git-scm.com/download)
 
 ##  git 提交命令
 ①git add .
@@ -24,4 +23,4 @@ git的地址：https://git-scm.com/download
 >>>>>>> baf605ff4f3d7f16e8d325356f00a39ab9bfdc3d
 
 ##  资料
-Spring的组件：https://spring.io/guides
+[Spring文档](https://spring.io/guides)
