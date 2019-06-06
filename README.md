@@ -3,6 +3,7 @@
 
 ##  工具
 git的地址：https://git-scm.com/download
+<<<<<<< HEAD
 
 ##  git 提交命令
 ①git add .
@@ -18,6 +19,9 @@ git的地址：https://git-scm.com/download
 ⑤git commit -m "备注"
 ⑥git remote add origin https://github.com/Superma404/demo.git
 ⑦git push -u origin master
+=======
+ 
+>>>>>>> baf605ff4f3d7f16e8d325356f00a39ab9bfdc3d
 
 ##  资料
 Spring的组件：https://spring.io/guides
