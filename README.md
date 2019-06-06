@@ -2,7 +2,7 @@
 
 
 ##  工具
- git的地址：https://git-scm.com/download
+git的地址：https://git-scm.com/download
  
 
 ##  资料
