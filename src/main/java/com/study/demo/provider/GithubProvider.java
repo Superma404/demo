@@ -1,6 +1,7 @@
 package com.study.demo.provider;
 
 import com.alibaba.fastjson.JSON;
+import com.study.demo.bean.User;
 import com.study.demo.dto.AccesstokenDTO;
 import com.study.demo.dto.GithubUser;
 import okhttp3.*;

@@ -18,7 +18,8 @@
 ⑤git commit -m "备注"
 ⑥git remote add origin https://github.com/Superma404/demo.git
 ⑦git push -u origin master
-
+##  flyway 命令
+mvn clean flyway:migrate -Dflyway.configFile=flyway.peoperties
 
 ##  资料
 [Spring文档](https://spring.io/guides)
